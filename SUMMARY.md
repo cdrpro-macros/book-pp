@@ -132,3 +132,5 @@
 * [Настройка Photo-Paint X5](Nastroyka-Photo-Paint-X5/index.md)
    * [Страницы Workspace и General](./Stranitsy-Workspace-i-General/index.md)
    * [Страница Display (Монитор)](./Stranitsa-Display-Monitor/index.md)
+   * [Другие разделы диалогового окна Options (Параметры)](./drugie-razdely-dialogovogo-okna-options-parametry/index.md)
+* [Вместо заключения](vmesto-zaklyucheniya/index.md)
