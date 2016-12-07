@@ -12,8 +12,11 @@
 Включенные в книгу примеры и иллюстрации, помогут освоить и применять на практике возможности, которые предоставляет нам графический редактор **Corel PHOTO-PAINT Х5**.
 
 _Автор: Воронин Александр Петрович   
-Редакция: Александр (aka Sancho)    
+Редакция: Александр (aka Sancho)   
 Лицензия: CC-BY-NC-ND 4.0 International_
 
-Последнюю версию книги можно найти по адресу: [cdrpro.ru/books](http://cdrpro.ru/books/)   
-[Читать онлайн](https://cdrpro-macros.gitbooks.io/pp-book/content/).
+_**Исходный код книги:**   
+[github.com/cdrpro/book-pp](https://github.com/cdrpro/book-pp)_
+
+Последнюю версию книги можно найти по адресу: [cdrpro.ru/links](http://cdrpro.ru/links/)   
+[Читать онлайн](https://cdrpro.gitbooks.io/pp-book/content/).
